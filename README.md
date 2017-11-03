@@ -13,3 +13,4 @@
 #sudo puppet apply -e 'class{"sshd":}'
 
 #sudo git add . && sudo git commit; sudo git pull && sudo git push
+(Kurssi Tero Karvinen terokarvinen.com)
